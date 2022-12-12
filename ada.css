@@ -1,0 +1,42 @@
+
+    
+bod{
+
+    font-size: 20px;
+}
+
+body{
+  background-color: rgb(23, 222, 192);
+  background-repeat: no-repeat;
+    background-size: cover;
+}  
+
+.subtitulo {
+text-align: center;
+color: #000;
+font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.subtitulo:hover{
+color: rgb(71, 65, 65);
+text-shadow: 6px 6px rgb(27, 196, 154);
+}
+
+.whiteDivider {
+    background-color: #e2a8e7;
+    padding: 2em;
+    text-align: left;
+    border: #000 2px solid;
+    margin: 5em;
+    font-size: 30px;
+}
+
+.img-container {
+  text-align: center;
+
+
+}
+
+.imgContainer {
+    display: flexbox;
+    justify-content: center;
+}
